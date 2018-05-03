@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+body {
+	background-color: #000639
+}
+
+h2 {
+	color: #FFFFFF;
+	align-content: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center
+}
+
+hr {
+	background-color: #7AB55C;
+}
+
+h3 {
+	color: #FFFFFF;
+	align-content: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center
+}
+
+#thanks-for-subscribing {
+	color: #FFFFFF;
+	align-content: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center
+}
+
+#js-input-and-select {
+	text-align: center
+}
+
+span {
+	display: none;
+	color: #C23268;
+	text-align: center 
+}
+
+#js-sign-up {
+	text-align: center
+}
+
+#js-thank-you-message {
+	text-align: center;
+	display: none;
+}
